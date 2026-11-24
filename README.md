@@ -18,3 +18,10 @@ Incremento a añadir al precio de cada producto (NAVID) que sale de la plataform
 | T7 Extra grande (>80) | 6,20 | | | | |
 
 Los importes son una tarifa a cuenta: cada mes se regulariza frente a la factura real del operador.
+
+## Calculadora de costes del contrato
+
+- Página: rebedoalejandro-alt.github.io/tarifa-logistica-alovera/calculadora.html
+- Calcula la factura mensual y anual de Translogisal según el uso de Alovera (stock en huecos, salidas a centros, logística digital), con los precios y mínimos del contrato de 2018, las novaciones de 2020 y 2022, la adenda de 31-jul-2025 y el correo de Translogisal de 13-ene-2026.
+- Base: facturas de agosto 2026 (443.030 € sin IVA). Todas las cantidades y precios son editables; el escenario se comparte con el botón «Copiar enlace del escenario».
+- Muestra el suelo contractual (lo que se paga aunque no se use), el coste por unidad y por palet, la proyección hasta 2032 (y prórrogas hasta 2038) y lo que pagaría MMN a Reynasa con el margen intragrupo del borrador del contrato MMN–Reynasa.
